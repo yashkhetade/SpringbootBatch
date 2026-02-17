@@ -20,7 +20,6 @@ Scheduled Jobs: Running jobs at specific times or intervals, such as nightly dat
 Handling High Volume Transactions: When applications need to handle high volumes of transactions without affecting the performance of online systems.
 
 # In your favorite IDE, create a new Maven-based Java 17+ project and add the following dependency to your pom.xml:
-
 <dependencies>
     <dependency>
         <groupId>org.springframework.batch</groupId>
